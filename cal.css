@@ -1,0 +1,29 @@
+.container{
+  height: 360px;
+  width: 280px;
+  
+}
+.corners{
+  border-radius: 10px;
+  
+}
+
+table, th, td {
+    border: 1px;
+    border-collapse: collapse;
+  table-layout:fixed;
+}
+
+.btn.my-btn {
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 100%;
+  
+  
+}
+.my-heading {
+  position: relative;
+}
+
+
